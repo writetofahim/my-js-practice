@@ -1,0 +1,2 @@
+Lack in understanding the lesson:
+    Function Constructor
