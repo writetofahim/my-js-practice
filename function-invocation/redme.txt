@@ -1,2 +1,2 @@
-Lack in understanding the lesson:
+Lack in understanding the lessons:
     Function Constructor
